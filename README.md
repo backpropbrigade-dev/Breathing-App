@@ -1,6 +1,6 @@
 # Breathing Exercise App
 
-A beautiful, interactive breathing exercise application with 3D visualization and customizable patterns - Built during codecircuilt hackathon.
+A beautiful, interactive breathing exercise application with 3D visualization and customizable patterns.
 
 ## Features
 
