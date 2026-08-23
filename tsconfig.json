@@ -1,0 +1,13 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    // …other options…
+    "noUnusedLocals": false,       // disables TS6133, “unused local” errors
+    "noUnusedParameters": false     // disables TS6133 for parameters
+  }
+
+}
